@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
 # Awesome Lean
 
 Start with Lean 4 to write a theorem, then find the lemmas that mathlib already supplies.
